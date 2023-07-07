@@ -1,0 +1,1 @@
+import{j as s}from"./index-3a08eca9.js";const e=()=>s.jsx(s.Fragment,{children:s.jsx("div",{className:"bg-white",children:s.jsx("div",{className:"mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8",children:s.jsx("h2",{className:"font-bold",children:"All Category"})})})});export{e as default};
